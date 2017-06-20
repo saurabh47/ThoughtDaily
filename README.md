@@ -1,4 +1,7 @@
 # ThoughtDaily
+
+![_20170414_234551](https://user-images.githubusercontent.com/15173289/27347566-a5a0de2e-560e-11e7-93e7-63b1e467745b.jpg)
+
 In this app, you can read daily new thoughts and all the thoughts are energetic and motivational which teach
 you a new lesson. you can share these thoughts with friends &family .
 Every day you will see different thoughts that's generate randomly.
