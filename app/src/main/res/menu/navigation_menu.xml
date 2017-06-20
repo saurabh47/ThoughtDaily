@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/share"
+        android:checkable="false"
+        android:icon="@mipmap/ic_send_black_24dp"
+        android:title="@string/share_button"/>
+    <item
+        android:id="@+id/notification"
+        android:title="@string/notification_button"
+        android:icon="@mipmap/ic_notifications_none_black_24dp"/>
+
+</menu>

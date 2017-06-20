@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Thought Daily</string>
+    <string name="title_name">T</string>
+    <string name="share_button">SHARE</string>
+    <string name="notification_button">NOTIFICATION</string>
+    <string name="english">ENGLISH</string>
+    <string name="hindi">हिंदी</string>
+    <string name="marathi">मराठी</string>
+    <string name="thoughtofday">Thought of the Day</string>
+    <string name="thoughtbuttontext">Show Another Thought</string>
+    <string name="selectlanguage">Select your language</string>
+</resources>
